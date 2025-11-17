@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 140" width="440" height="280">
+  <title>Blue Pottery Bowl</title>
+  <defs>
+    <radialGradient id="blueglaze" cx="40%" cy="40%">
+      <stop offset="0%" stop-color="#bde4ff"/>
+      <stop offset="100%" stop-color="#0b5f9b"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="110" cy="80" rx="88" ry="34" fill="#3b82f6" opacity="0.2"/>
+  <path d="M40 80 C60 20 160 20 180 80 C160 104 60 104 40 80 Z" fill="url(#blueglaze)" stroke="#08306b"/>
+  <circle cx="110" cy="62" r="6" fill="#fff" opacity="0.55"/>
+</svg>

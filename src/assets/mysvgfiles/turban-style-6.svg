@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Turban Style 6 - Tall Crown</title>
+  <rect x="50" y="20" width="120" height="42" rx="22" fill="#10b981"/>
+  <ellipse cx="110" cy="64" rx="60" ry="18" fill="#059669"/>
+</svg>

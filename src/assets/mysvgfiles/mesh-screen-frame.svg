@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 160" width="440" height="320">
+  <title>Mesh Screen Frame</title>
+  <rect x="20" y="20" width="180" height="120" rx="6" fill="#efeaea" stroke="#b5b5b5"/>
+  <g stroke="#9aa0a6" stroke-width="0.8">
+    <!-- simple grid mesh -->
+    <defs>
+      <pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse">
+        <path d="M12 0 L0 0 0 12" fill="none" stroke="#9aa0a6" stroke-width="0.6"/>
+      </pattern>
+    </defs>
+    <rect x="28" y="28" width="164" height="104" fill="url(#grid)"/>
+  </g>
+</svg>

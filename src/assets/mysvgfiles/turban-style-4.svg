@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Turban Style 4 - Tail</title>
+  <ellipse cx="110" cy="52" rx="70" ry="26" fill="#ef4444"/>
+  <path d="M40 52 Q70 30 110 36 Q150 42 180 36" fill="#dc2626" opacity="0.85"/>
+  <path d="M180 52 C200 60 210 80 170 82" fill="#b91c1c" opacity="0.9"/>
+</svg>

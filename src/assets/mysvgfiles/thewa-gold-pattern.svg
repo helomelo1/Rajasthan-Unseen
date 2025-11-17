@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="480" height="320">
+  <title>Thewa Gold Sheet Pattern (stylized)</title>
+  <rect width="100%" height="100%" fill="#fff8e1"/>
+  <g fill="#d4af37">
+    <path d="M40 30 L80 30 L60 70 Z"/>
+    <path d="M120 20 L160 20 L140 60 Z"/>
+    <path d="M200 40 L220 40 L210 80 Z"/>
+  </g>
+  <g stroke="#b8860b" stroke-width="1" fill="none">
+    <circle cx="70" cy="110" r="18"/>
+    <circle cx="150" cy="110" r="18"/>
+  </g>
+</svg>

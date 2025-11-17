@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" width="800" height="320">
+  <title>Desert Dunes Silhouette</title>
+  <rect width="100%" height="100%" fill="#fff7ed"/>
+  <path d="M0 120 Q80 80 160 120 T320 120 T480 120 L480 160 L0 160 Z" fill="#f6ad55"/>
+  <path d="M0 130 Q80 100 160 130 T320 130 T480 130 L480 160 L0 160 Z" fill="#f59e0b" opacity="0.6"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" width="520" height="240">
+  <title>Stitching Dotted Path</title>
+  <path d="M40 70 C70 40 120 20 160 30 C200 40 220 60 230 80" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4 6" stroke-linecap="round"/>
+  <circle cx="40" cy="70" r="3" fill="#b91c1c"/>
+</svg>

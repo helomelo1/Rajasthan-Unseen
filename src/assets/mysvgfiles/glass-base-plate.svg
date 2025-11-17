@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Glass Base Plate</title>
+  <defs>
+    <linearGradient id="glass" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dbeefe" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#9fd3f5" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="110" cy="60" rx="84" ry="22" fill="url(#glass)" stroke="#7fb3d5"/>
+  <ellipse cx="110" cy="52" rx="60" ry="14" fill="#ffffff" opacity="0.08"/>
+</svg>

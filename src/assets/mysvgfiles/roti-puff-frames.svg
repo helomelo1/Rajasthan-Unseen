@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="1200" height="320">
+  <title>Roti Puff Animation Frames (3 frames)</title>
+  <!-- Frame 1: raw round dough -->
+  <g id="frame1" transform="translate(40,80)">
+    <circle cx="0" cy="0" r="34" fill="#f3d6b0" stroke="#d9b889"/>
+  </g>
+  <!-- Frame 2: flattened -->
+  <g id="frame2" transform="translate(220,80)">
+    <ellipse rx="44" ry="18" fill="#f5d9bb" stroke="#d9b889"/>
+  </g>
+  <!-- Frame 3: puffed with shine -->
+  <g id="frame3" transform="translate(400,80)">
+    <ellipse rx="40" ry="26" fill="#f7e3c4" stroke="#d9b889"/>
+    <ellipse rx="18" ry="8" fill="#fff7e8" opacity="0.45" transform="translate(-8,-4)"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="400" height="600" aria-labelledby="title">
+  <title>Rope and Bucket</title>
+  <defs>
+    <linearGradient id="wood" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e0b07a"/>
+      <stop offset="100%" stop-color="#b87a4a"/>
+    </linearGradient>
+  </defs>
+  <!-- well top rim -->
+  <ellipse cx="100" cy="60" rx="80" ry="20" fill="#6b4f2f" opacity="0.95"/>
+  <!-- bucket -->
+  <g id="bucket" transform="translate(100,150)">
+    <path d="M-24 0 L24 0 L18 36 L-18 36 Z" fill="url(#wood)" stroke="#7a5130"/>
+    <rect x="-6" y="-30" width="12" height="30" rx="3" fill="#7f5a3b"/>
+    <path d="M-24 0 Q0 28 24 0" fill="#5c3f2a" opacity="0.6"/>
+  </g>
+  <!-- rope -->
+  <path id="rope" d="M100 40 C96 64, 96 90, 100 120" stroke="#c49a6c" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M100 120 L100 150" stroke="#b07b4f" stroke-width="4" stroke-linecap="round"/>
+  <!-- small tooltip dot -->
+  <circle cx="160" cy="40" r="4" fill="#f59e0b"/>
+</svg>

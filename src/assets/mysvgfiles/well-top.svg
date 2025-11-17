@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 160" width="600" height="320">
+  <title>Well Top View</title>
+  <defs>
+    <radialGradient id="watergrad" cx="50%" cy="40%">
+      <stop offset="0%" stop-color="#7fd3ff"/>
+      <stop offset="100%" stop-color="#0e7490"/>
+    </radialGradient>
+  </defs>
+  <!-- stone rim -->
+  <ellipse cx="150" cy="80" rx="120" ry="40" fill="#8b7b6e" stroke="#624f45"/>
+  <!-- inner ring -->
+  <ellipse cx="150" cy="80" rx="70" ry="24" fill="#6b5d53" stroke="#4b3f36"/>
+  <!-- water -->
+  <ellipse cx="150" cy="80" rx="50" ry="18" fill="url(#watergrad)" opacity="0.95"/>
+  <!-- rope shadow hint -->
+  <path d="M150 62 L150 98" stroke="#000" stroke-opacity="0.05" stroke-width="6"/>
+</svg>

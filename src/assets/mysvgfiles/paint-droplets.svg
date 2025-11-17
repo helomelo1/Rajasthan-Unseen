@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Paint Droplets</title>
+  <g fill="#ef4444">
+    <path d="M40 20 Q46 6 52 20 T64 20 Q58 36 40 20 Z"/>
+  </g>
+  <g fill="#f59e0b">
+    <path d="M120 24 Q126 8 132 24 T144 24 Q138 40 120 24 Z"/>
+  </g>
+  <g fill="#06b6d4">
+    <path d="M180 30 Q184 16 190 30 T200 30 Q194 46 180 30 Z"/>
+  </g>
+</svg>

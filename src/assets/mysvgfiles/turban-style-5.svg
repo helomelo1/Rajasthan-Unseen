@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Turban Style 5 - Pleated</title>
+  <g fill="#f59e0b" stroke="#b45309">
+    <rect x="20" y="40" width="180" height="20" rx="10"/>
+    <path d="M20 40 L40 30 L60 40 L80 30 L100 40 L120 30 L140 40 L160 30 L180 40" stroke="#a65a0a" stroke-width="2" fill="none"/>
+  </g>
+</svg>

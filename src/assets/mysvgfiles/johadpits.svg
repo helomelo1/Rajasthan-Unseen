@@ -1,0 +1,6 @@
+<svg width="160" height="80" viewBox="0 0 160 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Three johads -->
+  <circle cx="30" cy="40" r="20" fill="#A0C9E8" stroke="#5E7C8A" stroke-width="3"/>
+  <circle cx="80" cy="40" r="18" fill="#A0C9E8" stroke="#5E7C8A" stroke-width="3"/>
+  <circle cx="130" cy="40" r="22" fill="#A0C9E8" stroke="#5E7C8A" stroke-width="3"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="440" height="240">
+  <title>Turban Style 1 - Simple Wrap</title>
+  <ellipse cx="110" cy="50" rx="80" ry="26" fill="#d946ef" stroke="#7c2d6b"/>
+  <path d="M30 50 Q110 10 190 50" fill="#b91c8a" opacity="0.85"/>
+</svg>

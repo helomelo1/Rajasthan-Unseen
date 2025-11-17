@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 200" width="360" height="400">
+  <title>Rotating Pot (animated)</title>
+  <g id="pot" transform="translate(90,100)">
+    <path d="M-48 20 C-36 -10 36 -10 48 20 C40 34 -40 34 -48 20 Z" fill="#a0522d" stroke="#6b3b1c"/>
+    <ellipse cx="0" cy="-6" rx="30" ry="8" fill="#7f4428"/>
+  </g>
+  <animateTransform xlink:href="#pot" attributeName="transform" type="rotate" from="0 90 100" to="360 90 100" dur="6s" repeatCount="indefinite"/>
+</svg>
